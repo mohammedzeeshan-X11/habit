@@ -1,0 +1,6 @@
+{
+  "name": "Daily Habit Tracker & Productivity App",
+  "description": "A beautiful and comprehensive Daily Habit Tracker & Productivity application built as a UI/UX project prototype, featuring interactive streaks, analytics, and academic companion insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
